@@ -1,0 +1,4 @@
+git add .
+git commit -am 'trail'
+git push origin master
+git push heroku master

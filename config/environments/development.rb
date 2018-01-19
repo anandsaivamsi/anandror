@@ -39,6 +39,6 @@ Rails.application.configure do
   # Raises error for missing translations
   # config.action_view.raise_on_missing_translations = true
   
-  config.action_mailer.default_url_options = { host: 'http://node12.codenvy.io' , port: 52056 }
+  config.action_mailer.default_url_options = { host: 'https://anand-anandsai.c9users.io' , port: 52056 }
   
 end
