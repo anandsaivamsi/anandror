@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem 'pg'
+gem 'pg', '~> 0.18.4'
 gem 'bootstrap-sass-extras', '~> 0.0.2'
 gem 'devise', '~> 4.2'
 gem 'simple_form', '~> 3.5'
