@@ -1,4 +1,7 @@
 source 'https://rubygems.org'
+
+gem 'puma'
+
 gem 'pg', '~> 0.18.4'
 gem 'bootstrap-sass-extras', '~> 0.0.2'
 gem 'devise', '~> 4.2'
